@@ -1,0 +1,4 @@
+venv/
+*.csv
+ishares_cache.sqlite
+.idea
